@@ -255,7 +255,7 @@ class Visualizer:
         pygame.font.init()
         self.world = world
         self.screen = pygame.display.set_mode((world.width, world.height + self.screen_extension))
-        pygame.display.set_caption('Gherkin Challenge')
+        pygame.display.set_caption('3R Planar Robot Manipulator')
         self.font = pygame.font.SysFont('freesansbolf.tff', 30)
         self.wall = pygame.draw.rect(self.screen, self.WHITE, pygame.Rect(100, 20, 20, 40))
         self.arm_link_1 = pygame.draw.rect(self.screen, self.WHITE, pygame.Rect(0, 0, 0, 0))
