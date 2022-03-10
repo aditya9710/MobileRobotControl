@@ -14,5 +14,8 @@ Implementation of dynamic system control algorithms
   <figcaption>Output Member Functions</figcaption>
 </figure>
 
-# 3. 3R Planar Robot Manipulator Kinematic Control
+# 3. Deep Reinforcement Learning-based 2D CartPole 
+<img width="299" alt="Deep RL CartPole" src="https://user-images.githubusercontent.com/4020043/157596158-a54ebb67-1e6a-457b-b2c4-cb0fafcfd341.png">
+
+# 4. 3R Planar Robot Manipulator Kinematic Control
 <img width="299" alt="3R Planar Manipulator Kinematics" src="https://user-images.githubusercontent.com/4020043/155811612-499b7597-8b3a-4e64-95db-fc321c77312c.png">
